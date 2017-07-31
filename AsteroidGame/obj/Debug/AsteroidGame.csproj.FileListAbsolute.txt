@@ -1,0 +1,15 @@
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.exe
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.pdb
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.csprojResolveAssemblyReference.cache
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.exe
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.pdb
+D:\portfolio\GeekBrains-CSharp-Level-2-Lesson-1\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+D:\portfolio\GeekBrains-CSharp-Level-2-Lesson-1\AsteroidGame\obj\Debug\AsteroidGame.exe
+D:\portfolio\GeekBrains-CSharp-Level-2-Lesson-1\AsteroidGame\obj\Debug\AsteroidGame.pdb
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\obj\Debug\AsteroidGame.exe
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\obj\Debug\AsteroidGame.pdb
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\obj\Debug\AsteroidGame.csprojResolveAssemblyReference.cache
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\bin\Debug\AsteroidGame.exe
+d:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\AsteroidGame\bin\Debug\AsteroidGame.pdb

@@ -1,0 +1,6 @@
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\bin\Debug\Worker.exe.config
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\bin\Debug\Worker.exe
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\bin\Debug\Worker.pdb
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\obj\Debug\Worker.exe
+D:\portfolio\Geekbrains-CSharp-Level-2-Lesson-2\Worker\obj\Debug\Worker.pdb
